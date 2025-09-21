@@ -55,8 +55,39 @@ footer {
   font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
+  padding-left: 470px;
+  font-size: 60px;
+}
+
+.revivals{
+  font-family: "ranga", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-left: 380px;
+  font-size: 40px;
 }
 
 .REVIVAL{
-  padding-top: 50px;
+  padding-top: 70px;
+}
+
+.revial-card{
+  margin-bottom: 25px;
+  background-color: rgb(255, 209, 101);
+}
+
+.revival-card:hover{
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgb(255, 186, 47);
+}
+
+.button{
+  background-color: orange;
+}
+
+p{
+  font-family: "ranga", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
 }
