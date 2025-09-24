@@ -89,5 +89,38 @@ p{
   font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 40px;
+  font-size: 35px;
+}
+
+.s{
+    font-family: "ranga", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.titles-outfits{
+    font-family: "ranga", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  background-color: orange;
+  margin-top: 25px;
+}
+
+.p-outfits{
+    font-family: "ranga", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
+  background-color: rgb(255, 194, 80);
+}
+
+ol{
+list-style-position: inside;
+        text-align: center;
+}
+
+.encore{
+  padding-top: 35px;
 }
