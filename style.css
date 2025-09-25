@@ -55,20 +55,25 @@ footer {
   font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
-  padding-left: 470px;
   font-size: 60px;
+  text-align: center;
 }
 
 .revivals{
   font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
-  padding-left: 380px;
+text-align: center;
   font-size: 40px;
 }
 
+.carousel{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .REVIVAL{
-  padding-top: 70px;
 }
 
 .revial-card{
@@ -119,8 +124,20 @@ p{
 ol{
 list-style-position: inside;
         text-align: center;
+        font-family: "protest-revolution", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 35px;
 }
 
 .encore{
   padding-top: 35px;
+}
+
+.setlist{
+  text-align: center;
+  font-family: "sadak", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 75px;
 }
