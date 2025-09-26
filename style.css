@@ -47,12 +47,12 @@ footer {
   padding-bottom: 20px;
 }
 
-.emphasis{
+.emphasis {
   font-weight: bold;
 }
 
 
-.revival{
+.revival {
   font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -60,53 +60,52 @@ footer {
   text-align: center;
 }
 
-.revivals{
+.revivals {
   font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
-text-align: center;
+  text-align: center;
   font-size: 40px;
 }
 
-.carousel{
+.carousel {
   width: 75%;
   margin-left: auto;
   margin-right: auto;
 }
 
-.REVIVAL{
-}
+.REVIVAL {}
 
-.revial-card{
+.revial-card {
   margin-bottom: 25px;
   background-color: rgb(255, 209, 101);
 }
 
-.revival-card:hover{
+.revival-card:hover {
   transform: scale(1.05);
   box-shadow: 0 0 20px rgb(255, 186, 47);
 }
 
-.button{
+.button {
   background-color: orange;
 }
 
-p{
+p {
   font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 35px;
 }
 
-.s{
-    font-family: "ranga", sans-serif;
+.s {
+  font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 20px;
 }
 
-.titles-outfits{
-    font-family: "ranga", sans-serif;
+.titles-outfits {
+  font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
@@ -114,31 +113,37 @@ p{
   margin-top: 25px;
 }
 
-.p-outfits{
-    font-family: "ranga", sans-serif;
+.p-outfits {
+  font-family: "ranga", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 35px;
   background-color: rgb(255, 194, 80);
 }
 
-ol{
-list-style-position: inside;
-        text-align: center;
-        font-family: "protest-revolution", sans-serif;
-font-weight: 400;
-font-style: normal;
-font-size: 35px;
+ol {
+  list-style-position: inside;
+  text-align: center;
+  font-family: "protest-revolution", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
 }
 
-.encore{
+.encore {
   padding-top: 35px;
 }
 
-.setlist{
+.setlist {
   text-align: center;
   font-family: "sadak", sans-serif;
-font-weight: 400;
-font-style: normal;
-font-size: 75px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 75px;
+}
+
+.setlist:hover {
+  background: radial-gradient(circle, rgb(255, 171, 45), transparent);
+  z-index: -1;
+  transform: scale(1.1);
 }
